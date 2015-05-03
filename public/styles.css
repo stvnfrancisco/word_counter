@@ -1,0 +1,27 @@
+h1 {
+  color: green;
+  font-family: helvetica;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px:
+}
+
+h2 {
+  color: #57104D;
+  text-align: center;
+  font-family: helvetica;
+}
+
+h3 {
+  color: #191970;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+label {
+  color: yellow;
+}
