@@ -4,7 +4,7 @@
 
 by: Steven Francisco
 
-It will count how many times a given word is in a sentence or phrase.
+This app will count how many times a given word is in a sentence or phrase.
 
 Built using Ruby ver.: ruby 2.2.0p0 (2014-12-25 revision 49005) [x86_64-darwin14]
 
