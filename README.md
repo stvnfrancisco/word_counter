@@ -6,7 +6,7 @@ by: Steven Francisco
 
 This app will count how many times a given word is in a sentence or phrase.
 
-Built using Ruby ver.: ruby 2.2.0p0 (2014-12-25 revision 49005) [x86_64-darwin14]
+Built using Ruby ver.: ruby 2.2.2p95 (2015-04-13 revision 50295) [x86_64-darwin14]
 
 Please Bundle install the following Gems: 'sinatra' 'sinatra-contrib' 'rspec' 'capybara' 'pry'
 
